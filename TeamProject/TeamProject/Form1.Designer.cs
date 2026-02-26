@@ -28,12 +28,32 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
+            PhilippButton = new Button();
+            SuspendLayout();
+            // 
+            // PhilippButton
+            // 
+            PhilippButton.Location = new Point(308, 300);
+            PhilippButton.Name = "PhilippButton";
+            PhilippButton.Size = new Size(182, 80);
+            PhilippButton.TabIndex = 0;
+            PhilippButton.Text = "ФилиппКнопка";
+            PhilippButton.UseVisualStyleBackColor = true;
+            PhilippButton.Click += PhilippButton_Click;
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(PhilippButton);
+            Name = "Form1";
             Text = "Form1";
+            ResumeLayout(false);
         }
 
         #endregion
+
+        private Button PhilippButton;
     }
 }

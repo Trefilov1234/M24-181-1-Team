@@ -1,0 +1,17 @@
+C:\Users\Student\Documents\GitHub\M24-181-1-Team\TeamProject\TeamProject\bin\Debug\net10.0-windows\TeamProject.exe
+C:\Users\Student\Documents\GitHub\M24-181-1-Team\TeamProject\TeamProject\bin\Debug\net10.0-windows\TeamProject.deps.json
+C:\Users\Student\Documents\GitHub\M24-181-1-Team\TeamProject\TeamProject\bin\Debug\net10.0-windows\TeamProject.runtimeconfig.json
+C:\Users\Student\Documents\GitHub\M24-181-1-Team\TeamProject\TeamProject\bin\Debug\net10.0-windows\TeamProject.dll
+C:\Users\Student\Documents\GitHub\M24-181-1-Team\TeamProject\TeamProject\bin\Debug\net10.0-windows\TeamProject.pdb
+C:\Users\Student\Documents\GitHub\M24-181-1-Team\TeamProject\TeamProject\obj\Debug\net10.0-windows\TeamProject.Form1.resources
+C:\Users\Student\Documents\GitHub\M24-181-1-Team\TeamProject\TeamProject\obj\Debug\net10.0-windows\TeamProject.csproj.GenerateResource.cache
+C:\Users\Student\Documents\GitHub\M24-181-1-Team\TeamProject\TeamProject\obj\Debug\net10.0-windows\TeamProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\GitHub\M24-181-1-Team\TeamProject\TeamProject\obj\Debug\net10.0-windows\TeamProject.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\GitHub\M24-181-1-Team\TeamProject\TeamProject\obj\Debug\net10.0-windows\TeamProject.AssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\M24-181-1-Team\TeamProject\TeamProject\obj\Debug\net10.0-windows\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\M24-181-1-Team\TeamProject\TeamProject\obj\Debug\net10.0-windows\TeamProject.sourcelink.json
+C:\Users\Student\Documents\GitHub\M24-181-1-Team\TeamProject\TeamProject\obj\Debug\net10.0-windows\TeamProject.dll
+C:\Users\Student\Documents\GitHub\M24-181-1-Team\TeamProject\TeamProject\obj\Debug\net10.0-windows\refint\TeamProject.dll
+C:\Users\Student\Documents\GitHub\M24-181-1-Team\TeamProject\TeamProject\obj\Debug\net10.0-windows\TeamProject.pdb
+C:\Users\Student\Documents\GitHub\M24-181-1-Team\TeamProject\TeamProject\obj\Debug\net10.0-windows\TeamProject.genruntimeconfig.cache
+C:\Users\Student\Documents\GitHub\M24-181-1-Team\TeamProject\TeamProject\obj\Debug\net10.0-windows\ref\TeamProject.dll

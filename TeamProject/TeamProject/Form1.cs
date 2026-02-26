@@ -6,5 +6,10 @@ namespace TeamProject
         {
             InitializeComponent();
         }
+
+        private void PhilippButton_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Филипп Бондарев");
+        }
     }
 }
