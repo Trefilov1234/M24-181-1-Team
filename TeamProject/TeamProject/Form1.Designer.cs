@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             button1 = new Button();
+            TrefilovButton = new Button();
             SuspendLayout();
             // 
             // button1
@@ -41,11 +42,22 @@
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
+            // TrefilovButton
+            // 
+            TrefilovButton.Location = new Point(190, 74);
+            TrefilovButton.Name = "TrefilovButton";
+            TrefilovButton.Size = new Size(75, 23);
+            TrefilovButton.TabIndex = 1;
+            TrefilovButton.Text = "Trefilov";
+            TrefilovButton.UseVisualStyleBackColor = true;
+            TrefilovButton.Click += TrefilovButton_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(TrefilovButton);
             Controls.Add(button1);
             Name = "Form1";
             Text = "Form1";
@@ -55,5 +67,6 @@
         #endregion
 
         private Button button1;
+        private Button TrefilovButton;
     }
 }

@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\ValeevTR\\M24-181-1-Team\\TeamProject\\",
+  "WorkspaceRootPath": "E:\\study\\istu\\istu2025-2026\\sem4\\korprac\\gitProj\\M24-181-1-Team\\TeamProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F49314C7-57B2-0FDF-7EB9-39BB23A6C5D3}|TeamProject\\TeamProject.csproj|c:\\users\\student\\desktop\\valeevtr\\m24-181-1-team\\teamproject\\teamproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F49314C7-57B2-0FDF-7EB9-39BB23A6C5D3}|TeamProject\\TeamProject.csproj|E:\\study\\istu\\istu2025-2026\\sem4\\korprac\\gitProj\\M24-181-1-Team\\TeamProject\\teamproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F49314C7-57B2-0FDF-7EB9-39BB23A6C5D3}|TeamProject\\TeamProject.csproj|solutionrelative:teamproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49314C7-57B2-0FDF-7EB9-39BB23A6C5D3}|TeamProject\\TeamProject.csproj|e:\\study\\istu\\istu2025-2026\\sem4\\korprac\\gitproj\\m24-181-1-team\\teamproject\\teamproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49314C7-57B2-0FDF-7EB9-39BB23A6C5D3}|TeamProject\\TeamProject.csproj|solutionrelative:teamproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,11 +62,24 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\study\\istu\\istu2025-2026\\sem4\\korprac\\gitProj\\M24-181-1-Team\\TeamProject\\TeamProject\\Form1.cs",
+              "RelativeDocumentMoniker": "TeamProject\\Form1.cs",
+              "ToolTip": "E:\\study\\istu\\istu2025-2026\\sem4\\korprac\\gitProj\\M24-181-1-Team\\TeamProject\\TeamProject\\Form1.cs",
+              "RelativeToolTip": "TeamProject\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T15:25:50.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\ValeevTR\\M24-181-1-Team\\TeamProject\\TeamProject\\Form1.cs",
+              "DocumentMoniker": "E:\\study\\istu\\istu2025-2026\\sem4\\korprac\\gitProj\\M24-181-1-Team\\TeamProject\\TeamProject\\Form1.cs",
               "RelativeDocumentMoniker": "TeamProject\\Form1.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\ValeevTR\\M24-181-1-Team\\TeamProject\\TeamProject\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "E:\\study\\istu\\istu2025-2026\\sem4\\korprac\\gitProj\\M24-181-1-Team\\TeamProject\\TeamProject\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "TeamProject\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-26T14:54:56.813Z",
