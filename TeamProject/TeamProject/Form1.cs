@@ -11,5 +11,10 @@ namespace TeamProject
         {
             Console.WriteLine("Тимур Лаваш");
         }
+
+        private void TrefilovButton_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("TrefilovDanil");
+        }
     }
 }
