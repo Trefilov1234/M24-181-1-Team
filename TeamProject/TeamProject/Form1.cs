@@ -16,5 +16,10 @@ namespace TeamProject
         {
             MessageBox.Show("TrefilovDanil");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Егор");
+        }
     }
 }
